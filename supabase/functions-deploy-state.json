@@ -1,0 +1,9 @@
+{
+  "projectId": "73234199",
+  "functions": {
+    "gemini-chat": {
+      "hasChanged": false,
+      "hash": "4180d5f04df03eccb542006388347b9d08d9b837de84eec6600df68ba8fd7fbd"
+    }
+  }
+}
